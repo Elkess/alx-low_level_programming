@@ -2,7 +2,8 @@
 
 
 /**
-* main - prints "Programming is like building a multilingual puzzule, followed by a ne line."
+* main - prints "Programming is like building a multilingual
+* puzzule, followed by a ne line."
 * return 0.
 */
 int main(void)
